@@ -1,3 +1,7 @@
+# Description
+
+This project is a demo for using SASS (.scss) files with react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

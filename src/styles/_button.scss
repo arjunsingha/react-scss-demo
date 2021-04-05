@@ -1,0 +1,14 @@
+@import "./config";
+
+button{
+    
+    background-color: blue;
+    color: $primary_text_color;//variables
+    height: 50px;
+    font-size: $primary_font_size;//variables
+    &.active{
+        @include bold-text;//this is mixin
+        color: $active_text_color;//variables
+    }
+    
+}

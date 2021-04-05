@@ -1,0 +1,7 @@
+$primary_text_color: black;
+$active_text_color: red;
+$primary_font_size: 24px;
+
+@mixin bold-text {
+    font-weight: bold;
+}
